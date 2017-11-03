@@ -366,6 +366,7 @@ section .title-detail{
 #concact{
 	box-sizing: border-box;
 	padding: 0.1rem;
+	overflow: hidden;
 	padding-bottom: 0.4rem;
 	transition: all 1s; 
 	transform: translateY(100px);
